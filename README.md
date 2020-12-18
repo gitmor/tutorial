@@ -1,6 +1,6 @@
 # tutorial
 tutorial
 
-## BIG HEADING
+## SMALL HEADING
 
-# SMALLER HEADING
+# BIG HEADING
